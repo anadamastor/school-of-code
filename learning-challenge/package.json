@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage=true"
+  },
+  "jest": {
+    "transform": {
+      "^.+\\.jsx?$": "babel-jest"
+    }
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.24.4",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
