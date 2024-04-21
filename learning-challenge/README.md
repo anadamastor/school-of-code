@@ -1,13 +1,13 @@
-# Javascript: functions and variables scop
+# Javascript Functions
 
 #### Environment setup
 
 This challenge will run automated tests to check your solution. To this end we need to install [Jest](https://jestjs.io/), a js testing framework.
-Run the package installer `install --save-dev babel-jest`
+Run the package installer `yarn install` or `npm install`
 
 ###### Testing
 
-install babel preset `npm install @babel/preset-env --save-dev`
+Install babel preset `npm install @babel/preset-env --save-dev`
 Finally, run `yarn test` or `npm test` and Jest will print the results of your progress.
 ___
 

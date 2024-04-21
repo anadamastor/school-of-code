@@ -2,7 +2,7 @@
 // TESTING: Go to learning-challenge and execute `npm run test` in your terminal to check your progress.
 
 // TICKET 1a: Create a function
-// Instructions: Implement a function called sum() that takes two parameters a and b and returns their sum.
+// Instructions: Implement a function called sum() that takes two parameters and returns their sum.
 
 // export const sum = () => {};
 export const sum = (a, b) => {

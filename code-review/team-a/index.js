@@ -36,7 +36,7 @@ console.log(childNodes);
 
 // Ticket 2c
 let children = itemList.children;
-console.log(itemList.children);
+console.log(itemList.children); // CAN PRINT VARIABLE DIRECTLY
 
 // Ticket 2d
 let firstChild = itemList.firstChild;
@@ -44,7 +44,7 @@ let lastChild = itemList.lastChild;
 
 // Ticket 2e
 let cherry = children[2];
-console.log(cherry);
+console.log("inspect", cherry);
 let next = cherry.nextElementSibling;
 let previous = cherry.previousElementSibling;
 console.log(next);
@@ -80,7 +80,7 @@ document.body.appendChild(newPara);
 
 // Ticket 3c
 let firstPara = document.querySelector(".content");
-firstPara.textContent = "This paragraph has been updated using js.";
+firstPara.textContent = "This paragraph has been updated using js."; // DO NOT NEED USING JS
 
 //Ticket 3d: Modifying Attributes
 let hover = document.querySelectorAll(".content")[1];
