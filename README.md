@@ -1,6 +1,10 @@
-## Code review 
+## Code review
+
 [here](./code-review)
 
-## Learning challenge [here](./learning-challenge)
-- setup mini lesson (lecture.md)
-- write exercises on the side (exercises.md)
+![Comparison](./code-review/data/comparison.png)
+
+## Learning challenge
+
+- [Lecture](./learning-challenge/README.md)
+- [Challenges](./learning-challenge/src/challenges.js)
