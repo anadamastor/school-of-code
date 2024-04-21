@@ -1,12 +1,13 @@
-![Comparison](./code-review/data/comparison.png)
-
+![Comparison](./data/comparison.png)
 
 ## TEAM A
+
 Team A demonstrates a solid understanding of DOM manipulation concepts in JavaScript, just two minor comments on line 39 and 83.
 Considering the team has only used LET - I would nudge to start thinking about the implications of using LET and CONST.
 Can push forward on trying new challenges such as events.
 
 ## TEAM B - comments
+
 I enjoy the playfulness that comes out from the challenge - the team has been trying really hard to complete the challenge.
 
 The lack of clear structure and comments makes it almost impossible to correct. I would suggest to identify the challenges first and reduce the overall cognitive/
