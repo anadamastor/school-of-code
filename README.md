@@ -1,2 +1,6 @@
-Link to the code review [here](./code-review)
-Link to the learning challenge [here](./learning-challenge)
+## Code review 
+[here](./code-review)
+
+## Learning challenge [here](./learning-challenge)
+- setup mini lesson (lecture.md)
+- write exercises on the side (exercises.md)
