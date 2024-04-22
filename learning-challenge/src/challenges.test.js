@@ -7,7 +7,7 @@ import {
 } from "./challenges.js";
 
 describe("Challenges", () => {
-  test(" sum function - adds 1 and 2 to equal 3", () => {
+  test("sum function - adds 1 and 2 to equal 3", () => {
     expect(sum(1, 2)).toBe(3);
   });
 

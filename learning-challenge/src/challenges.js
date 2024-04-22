@@ -15,12 +15,10 @@ export const sum = (a, b) => {
 // TICKET 1b: Create a function
 // Instructions: Implement a function called multiply() that takes two parameters and returns their product.
 
+export const multiply = () => {};
 // export const multiply = (a, b) => {
 //   return a * b;
 // };
-export const multiply = (a, b) => {
-  return a * b;
-};
 
 // __________________________________________
 // TICKET 1c: Create a function
