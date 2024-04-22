@@ -24,7 +24,7 @@ While the team demonstrates some capability in traversing and styling elements, 
 
 The solutions for styling elements and DOM manipulation are great and effective. As a next step I would ask the team how to refactor them - at this stage they have done a great work.
 
-There is great value in this challenge because it has spotted some areas that need to be addresses as soon as possible (clarity, variables, and code duplication).
+There is great value in this challenge because it has spotted some areas that need to be addressed as soon as possible (clarity, variables, and code duplication).
 
 Overall, Team B shows great curiosity, resilience and brilliant DOM manipulations skills. 
 
