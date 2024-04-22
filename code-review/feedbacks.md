@@ -5,9 +5,9 @@
 
 Team A demonstrates a solid understanding of DOM manipulation concepts in JavaScript, just two minor comments on line 39 and 83.
 
-It's noteworthy that the team has mainly used `let` for variable declarations. I would encourage them to consider the implications of using both `let` and `const` could improve their code quality and maintainability.
+It's noteworthy that the team has mainly used `let` for variable declarations. I would encourage them to consider the implications of using both `let` and `const` to improve their code quality and maintainability.
 
-Considering the great solutions the have implemented, I encourage to team to explore new challenges such as events handling and, generally, play more with the code.
+Considering that great solutions have implemented, I encourage to team to explore new challenges such as events handling and, generally, play more with the code.
 
 ## TEAM B
 [Team B code with comments](./code-review/team-b/index.js)

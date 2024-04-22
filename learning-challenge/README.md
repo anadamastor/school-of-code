@@ -16,7 +16,7 @@ Run `yarn test` or `npm test` and Jest will print the results of your progress.
 
 Functions are a very abstract concept to grasp, especially for students that do no have a STEM background.
 
-Understanding them as soon as possible and how they work is extremely important as it will set the foundations for more additional and complex concepts.
+Understanding them as soon as possible and how they work is extremely important as it will set the foundations for more complex concepts.
 
 The purpose of this lecture is to give a solid overview on how functions are created and how they work.
 
@@ -28,7 +28,7 @@ Functions in JavaScript are like small, reusable programs within a program.
 
 They encapsulate a set of instructions that can be executed whenever needed. There are three common ways to create functions in Javascript.
 
-- Function Declaration: You declare the function using the function keyword followed by the function name and its code block.
+- Function Declaration: You declare the function using the `function` keyword followed by the function name and its code block.
 
 ```js
 // Function declaration
@@ -121,6 +121,6 @@ console.log(result); // Output: 8
 
 ---
 
-##### Challenges:
+### Challenges:
 
 Go [here](./src//challenges.js) to put your knowledge of functions to the sword!
