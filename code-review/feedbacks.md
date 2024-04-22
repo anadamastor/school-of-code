@@ -1,27 +1,30 @@
 ![Comparison](./data/comparison.png)
 
 ## TEAM A
+[Team A code with comments](./code-review/team-a/index.js)
 
 Team A demonstrates a solid understanding of DOM manipulation concepts in JavaScript, just two minor comments on line 39 and 83.
 
-Considering the team has only used LET - I would nudge to start thinking about the implications of using LET and CONST.
+It's noteworthy that the team has mainly used `let` for variable declarations. I would encourage them to consider the implications of using both `let` and `const` could improve their code quality and maintainability.
 
-Can push forward on trying new challenges such as events.
+Considering the great solutions the have implemented, I encourage to team to explore new challenges such as events handling and, generally, play more with the code.
 
-## TEAM B - comments
+## TEAM B
+[Team B code with comments](./code-review/team-b/index.js)
 
-I enjoy the playfulness that comes out from the challenge - the team has been trying really hard to complete it.
+I really enjoy the playfulness that comes out straight at the beginning of the challenge (the `console.log("hi")`). 
 
-The lack of clear structure and comments makes it almost impossible to correct. I would suggest to identify the challenges first and reduce the overall cognitive/
+ It is clear the team has been trying really hard to complete the challenges but there are some areas of growth.
 
-Overall there ismMajor code duplication. I believe there is a lack of understanding of variables and I would like to explore with the team more in depth this concepts.
+The lack of clear structure and comments makes it very difficult for a teacher to provide feedback, I would insist on this as first point to address. 
 
-However there are a couple of overlooks I would like to highlight with the team as soon as possible.
+Another major issue observed is significant code duplication, indicating a potential lack of understanding of variables. Exploring this concept in-depth with the team could be extremely beneficial at this stage.
 
-It looks like the team hasn't yet fully grasped the concept of "variable" and this explains the major code duplication.
+While the team demonstrates some capability in traversing and styling elements, there are instances of confusion and skipped traversal steps. 
 
-Traversing the DOM: is happening but there is some confusion. Traversing skipped at times.
+The solutions for styling elements and DOM manipulation are great and effective. As a next step I would ask the team how to refactor them - at this stage they have done a great work.
 
-Styling Elements: the solutions that are implemented work well, how can we refactor the code to reduce duplication?
+There is great value in this challenge because it has spotted some areas that need to be addresses as soon as possible (clarity, variables, and code duplication).
 
-Manipulation of the DOM: it works well but can do some code duplication.
+Overall, Team B shows great curiosity, resilience and brilliant DOM manipulations skills. 
+
